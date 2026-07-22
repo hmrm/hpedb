@@ -1037,6 +1037,23 @@
     "authors": "Testa, P.; Williams, J."
   },
   {
+    "doi": "https://doi.org/10.1177/00223433251347763",
+    "title": "Political violence and anti-system voting in interwar Italy",
+    "journal": "Journal of Peace Research",
+    "year": 2025,
+    "abstract": "This dataset provides information on the incidence of political violence in Italian municipalities between 1919 and 1921. Based on articles from the two Italian newspapers La Stampa and L’Avanti, we classified newspaper reports on the basis of definitions provided by the Uppsala Conflict Data Program and provide information on actors, location, timing, and casualties/injuries. We aggregated reports by actor into the national-level electoral periods that precede the November 1919 and the May 1921 elections. Event-report level data that extends to 1922 is available on request from the authors.",
+    "period_start": 1919,
+    "period_end": 1922,
+    "regions": [
+      "Western Europe"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "replication_url": "https://doi.org/10.7910/DVN/TZAGJD",
+    "authors": "Vigano, E.; Della Sala, B.; Stojkovic, S.; Bormann, N."
+  },
+  {
     "doi": "10.1017/s0003055424001321",
     "title": "Precolonial Elites and Colonial Redistribution of Political Power",
     "journal": "APSR",
